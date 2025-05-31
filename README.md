@@ -1,4 +1,4 @@
-9# 🛡️ ProtectAPI
+# 🛡️ ProtectAPI
 
 ProtectAPI est une API simple et extensible pour gérer :
 - les utilisateurs
@@ -15,7 +15,7 @@ Conçue pour être rapide à configurer, intuitive à maintenir, et idéale pour
 
    ```bash
    git clone https://github.com/SosoTlm/ProtectAPI.git
-   cd ProtectAPI
+   cd ProtectAPI/ProtectAPI
    ```
 
 2. **Lance le script d'installation :**
